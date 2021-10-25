@@ -10,7 +10,7 @@ public class Main {
 			System.out.println(i);
 			
 			System.out.println("Anna!");
-			System.out.println("Andom :) ");
+			System.out.println("Nu ska det funka :) ");
 		}
 	}
 
