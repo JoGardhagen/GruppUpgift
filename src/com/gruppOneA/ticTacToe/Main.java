@@ -1,4 +1,4 @@
-package ticTacToe;
+package com.gruppOneA.ticTacToe;
 
 public class Main {
 
