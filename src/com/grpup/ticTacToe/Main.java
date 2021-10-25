@@ -8,6 +8,8 @@ public class Main {
 		// test för att se om det fungerar 
 		for(int i= 10; i>0;i--) {
 			System.out.println(i);
+			
+			System.out.println("Anna!");
 		}
 	}
 
