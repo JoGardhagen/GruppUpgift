@@ -1,4 +1,4 @@
-package ticTacToe;
+package com.grpup.ticTacToe;
 
 public class Main {
 
@@ -6,6 +6,9 @@ public class Main {
 		System.out.println("hej allesammans :) ");
 		// Prov comment
 		// test för att se om det fungerar 
+		for(int i= 10; i>0;i--) {
+			System.out.println(i);
+		}
 	}
 
 }
