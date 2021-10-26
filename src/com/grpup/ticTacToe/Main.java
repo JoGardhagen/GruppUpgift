@@ -11,6 +11,7 @@ public class Main {
 			
 			System.out.println("Anna!");
 			System.out.println("Nu ska det funka :) ");
+			System.out.println("test test");
 		}
 	}
 
