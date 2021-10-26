@@ -11,7 +11,11 @@ public class Main {
 			
 			System.out.println("Anna!");
 			System.out.println("Nu ska det funka :) ");
+<<<<<<< HEAD
 			System.out.println("test test");
+=======
+			System.out.println("Jocke var här . . . :) ")
+>>>>>>> branch 'master' of https://github.com/JoGardhagen/GruppUpgift
 		}
 	}
 
